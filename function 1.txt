@@ -1,0 +1,32 @@
+Function Main
+    Declare Integer num1
+    Declare Integer num2
+    Declare Integer answer
+    
+    Input num1
+    Input num2
+    Assign answer = num1 * num2
+    Output answer
+End
+
+Function Addition
+    Declare Integer num1
+    Declare Integer num2
+    Declare Integer answer
+    
+    Input num1
+    Input num2
+    Assign answer = num1 + num2
+    Output answer
+End
+
+Function Subtraction
+    Declare Integer num1
+    Declare Integer num2
+    Declare Integer answer
+    
+    Input num1
+    Input num2
+    Assign answer = num1 - num2
+    Output answer
+End
