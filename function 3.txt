@@ -1,0 +1,10 @@
+Function Main
+    Declare Integer gallons
+    Declare Integer miles
+    Declare Integer answer
+    
+    Assign gallons = 18
+    Assign miles = 350
+    Assign answer = miles / gallons
+    Output "Miles per gallon" & answer
+End
