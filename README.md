@@ -1,1 +1,1 @@
-# CIS106KeeganWatson
+I decided to take CIS106 because I want to learn the basics of coding. Computer science is very interesting to me but I don't know anything about how to code. I want to make sure this is something I want to persue. I figured because I had room in my courseload this would be a good gateway. 
