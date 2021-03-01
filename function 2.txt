@@ -1,0 +1,12 @@
+Function Main
+    Declare Integer Johnson
+    Declare Integer Smith
+    Declare Integer answer
+    Declare Integer average
+    
+    Assign Johnson = 98
+    Assign Smith = 65
+    Assign answer = Johnson + Smith
+    Assign average = answer / 2
+    Output "The average of Johnson and Smith is " & average
+End
