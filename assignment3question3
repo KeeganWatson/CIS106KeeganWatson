@@ -1,0 +1,8 @@
+percentage = float(.01)
+price = float(input("Enter price of item"))
+dis1 = float(input("Enter percentage of discount")
+
+dis2 = percentage * dis1
+
+print ("Original price   ",price)
+print ("Price after discount    ",dis2)
